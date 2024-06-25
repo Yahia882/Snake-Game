@@ -1,0 +1,1 @@
+# This project uses only standard Java libraries. No additional package installation is required .
