@@ -7,7 +7,7 @@ it Has a Restart Button, so when you lose you don't have to close it and reopen 
 the code is well documented.
 
 ## how it looks
-
+![image](https://github.com/Yahia882/Snake-Game/assets/139001479/e6325d8c-cd81-41d1-bd74-a1625fe35429)
 ### requirements
 
 JDK (Java Development Kit) to compile and run.
